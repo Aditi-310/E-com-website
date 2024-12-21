@@ -1,4 +1,4 @@
-
+import Button from '@mui/material/Button';
 const  Navigation = () =>
 {
     return(
@@ -17,9 +17,6 @@ const  Navigation = () =>
         </div>
     </nav>
     )
-
-
-
 
 }
 

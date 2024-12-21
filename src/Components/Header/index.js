@@ -30,7 +30,7 @@ const Header = () => {
                                 <SearchBox />
 
                                 {/* User logo start here */}
-                                <div className='part3 d-flex align-items-center justify-space-between w-100 m1-auto'>
+                                <div className='part3 d-flex align-items-center m1-auto'>
                                     <Button className='circle mr-3'><FiUser /></Button>
                                     <div className='m1-auto cartTab d-flex align-items-center'>
                                         <span className='price'>Rs.230</span>
